@@ -7,6 +7,6 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '9.0'
   s.source_files = 'SwiftStore/*.{h,m,swift}'
   s.source = 'SwiftStore/*.{h,m,swift}'
-  s.summery = 'key value db base on level db'
+  s.summary = 'key value db base on level db'
   s.requires_arc = true
 end
